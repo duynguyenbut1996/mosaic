@@ -1,0 +1,16 @@
+app.log
+.vscode/
+.idea/
+config/*
+
+bin
+typings
+/node_modules
+tmp/
+.tmp/
+package-lock.json
+npm-debug.log*
+auth
+auth/
+.env
+.DS_Store
